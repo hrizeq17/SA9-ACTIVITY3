@@ -12,3 +12,5 @@ class FactorialCalculator:
 factorial_calculator = FactorialCalculator()
 result = factorial_calculator.calculate_factorial(5)
 print("Factorial of 5:", result)
+
+
